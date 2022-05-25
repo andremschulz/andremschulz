@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente trabalho como SRE (Site Reability Engineer).
 - 📚 Atualmente estudando para LPI e CCNA.
-- 🌎 Visite meu site: <a>https://andreschulz.me</a>
+- 🌎 Visite meu site: <a>https://andreschulz.uk</a>
 - 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com
 - ☕ Me convide para um café! 
 <hr>
