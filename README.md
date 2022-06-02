@@ -1,7 +1,7 @@
 ### Olá, me chamo André Schulz 👋
 
 
-- 👨‍💻 Atualmente trabalho como SRE (Site Reability Engineer).
+- 👨‍💻 Atualmente trabalho como Analista de Infraestrutura de TI.
 - 📚 Atualmente estudando para LPI e CCNA.
 - 🌎 Visite meu site: <a>https://andreschulz.uk</a>
 - 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com
