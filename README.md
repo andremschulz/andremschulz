@@ -1,4 +1,4 @@
-### Olá, me chamo André Schulz 👋
+### Olá, me chamo André Schulz 👋🐹
 
 
 - 👨‍💻 Atualmente trabalho como Analista de Infraestrutura de TI.
@@ -6,7 +6,6 @@
 - 🌎 Visite meu site: <a>https://andreschulz.uk</a>
 - 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com
 - ☕ Me convide para um café! 
-- 🐹
 <hr>
 
 <div align="center">
