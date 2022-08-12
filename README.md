@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente trabalho como Analista de Infraestrutura de TI.
 - 📚 Atualmente estudando para LPI e CCNA.
-- 🌎 Visite meu site: <a>https://andreschulz.uk</a>
+- 🌎 Visite meu site: <a>https://andremschulz.com.br</a>
 - 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com
 - ☕ Me convide para um café! 
 <hr>
