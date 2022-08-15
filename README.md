@@ -17,5 +17,6 @@
   <hr>
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cdfcd321-55f1-4ace-ad2a-60ce3c1ecf6f/deploy-status)](https://app.netlify.com/sites/bright-wisp-37ad76/deploys)  
+
 ![Visitantes](https://page-views.glitch.me/badge?page_id=andremschulz)
   <hr>
