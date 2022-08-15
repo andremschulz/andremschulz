@@ -2,9 +2,9 @@
 
 
 - 👨‍💻 Atualmente trabalho como Analista de Infraestrutura de TI.
-- 📚 Atualmente estudando para LPI e CCNA.
+- 📚 Atualmente estudando para se tornar um DevOps.
 - 🌎 Visite meu site: <a>https://andremschulz.com.br</a> 
-- 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com
+- 📫 Entre em contato no e-mail: andremichelschulz@hotmail.com ou contato@andremschulz.com.br
 - ☕ Me convide para um café! 
 <hr>
 
